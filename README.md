@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshumansingh1
-- 👀 I’m interested in everything related to computer and vehicles
+- 👀 I’m interested in everything related to computers and vehicles
 - 🌱 I’m currently doing Integrated M.Tech degree in Computer Science
 - 💞️ I’m looking to collaborate on ... (It depends)
 - 📫 How to reach me ...
