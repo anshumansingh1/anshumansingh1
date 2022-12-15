@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anshumansingh1
+- 👋 Hi, I’m Anshuman Singh
 - 👀 I’m interested in everything related to computers and vehicles
-- 🌱 I’m currently doing Integrated M.Tech degree in Computer Science
+- 🌱 I’m currently doing Integrated M.Tech degree in Computer Science from VIT Vellore
 - 💞️ I’m looking to collaborate on ... (It depends)
 - 📫 How to reach me ...
 
