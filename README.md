@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to computers and vehicles
 - 🌱 I’m currently doing Integrated M.Tech degree in Computer Science from VIT Vellore
 - 💞️ I’m looking to collaborate on ... (It depends)
-- 📫 How to reach me ...
+- 📫 How to reach me ... (via LinkedIn)
 
 <!---
 anshumansingh1/anshumansingh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
