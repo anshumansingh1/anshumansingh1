@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Integrated M.Tech. in Computer Science and Engineering from VIT Vellore
 - 💞️ I’m looking to collaborate on ... (It depends)
 - 📫 How to reach me ... (via [LinkedIn](https://www.linkedin.com/in/anshuman-singh-01))
-- 🔗 This is the link to my <a href="https://anshumansingh1.github.io./" target="_blank">Portfolio</a>
+- 🔗 This is the link to my [Portfolio](https://anshumansingh1.github.io./)
 
 <!---
 anshumansingh1/anshumansingh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
